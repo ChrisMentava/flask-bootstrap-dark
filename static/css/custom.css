@@ -1,0 +1,14 @@
+/* Minimal custom styles - most styling comes from Bootstrap */
+body {
+    /* Ensure smooth scrolling behavior */
+    scroll-behavior: smooth;
+}
+
+/* Ensure text remains readable on all devices */
+.display-1 {
+    font-size: calc(2rem + 4vw);
+}
+
+.lead {
+    font-size: calc(1rem + 0.5vw);
+}
